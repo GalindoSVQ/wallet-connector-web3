@@ -1,5 +1,5 @@
 import web3 from "web3";
-import { InjectedConnector } from "@web3-react-injected-connector";
+import { InjectedConnector } from "@web3-react/injected-connector";
 
 const ETHEREUM_NETWORK_ID = 1;
 
